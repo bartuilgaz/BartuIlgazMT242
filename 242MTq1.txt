@@ -1,0 +1,7 @@
+q1)
+Asciiname=098097114116117
+Asciisurname=105108103097122
+ASciitotal=1077
+Timbernumber=13+1=14
+Duration=16050
+LEDPINNUMBER=1+12=13
